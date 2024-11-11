@@ -1,0 +1,8 @@
+body {
+    background-color: #1d4221;
+    color: white;
+    font-family: "bai jamburee" , sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
